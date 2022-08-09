@@ -1,4 +1,4 @@
-# AskAdmin - Banned Mail List (your e-mail on their public list)
+# AskAdmin - Banned Mail List (your e-mail on their black list)
 
 A word of explanation:
 if you will decide to pay for AskAdmin program, and then you will stop doing it - your e-mail address will be added to the mentioned list in the title. Or, if they will thinks that you selling your own copy of the AskAdmin program - your e-mail will be added there too!
