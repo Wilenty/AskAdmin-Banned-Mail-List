@@ -39,10 +39,16 @@ and chande some strings in the extracted script:
 ```
 
 ```AutoIt
-; "registration" in line 132
+; "registration" in line 131
 Global $a0fe130460a = a1570004a1a()
 ; to skip registartion:
 Global $a0fe130460a = true
+```
+```AutoIt
+; and finally register it to yourself in line: 2748
+		GUICtrlCreateLabel($a2ae1200543, 155 + 20, 175, 180, 18, 0)
+; TO:
+		GUICtrlCreateLabel("Wilenty", 155 + 20, 175, 180, 18, 0)
 ```
 instead of pay for it for people who won't understand that they doing wrong (and they are angry at me)...
 
