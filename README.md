@@ -30,7 +30,7 @@ If you want to have your own full version of AskAdmin without any restrictions, 
 and chande some strings in the extracted script:
 
 ```AutoIt
-;Statically e-mail addresses written, line: 128
+; Statically e-mail addresses written, line: 128
 ```
 
 ```AutoIt
