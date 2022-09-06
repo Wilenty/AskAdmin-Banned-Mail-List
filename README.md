@@ -5,7 +5,6 @@ At the outset. I've send an e-mail for all of the mentioned users with question 
 ![e-mailSEND-2](https://user-images.githubusercontent.com/61757638/188722176-e72ecb18-c151-4214-b529-c742229c4af3.png)
 ![e-mailSEND-1](https://user-images.githubusercontent.com/61757638/188722229-59891bce-2501-476e-868f-8baa7ca4791f.png)
 
-
 A word of explanation:
 if you will decide to pay for AskAdmin program, and then you will stop doing it - your e-mail address will be added to the mentioned list in the title. Or, if they will thinks that you selling your own copy of the AskAdmin program - your e-mail will be added there too!
 
@@ -14,14 +13,14 @@ This simple program executes the "AskAdmin.exe" or "AskAdmin_x64.exe" (with spec
 
 After successfully execution you will see all e-mails banned by the AskAdmin owners:
 
-![AskAdmin - Banned Mail List](https://user-images.githubusercontent.com/61757638/183537017-89f6d87c-03f5-4da2-838b-c4740058be6f.png)
+![AskAdmin-BannedMailList-OK](https://user-images.githubusercontent.com/61757638/188722419-f9f765f9-b481-4f79-9f9f-230b7a4ce547.png)
 
 So please report them to the police or to the relevant authorities in your country if you find your email address on their list, because otherwise they will never understand that they are doing something wrong that they shouldn't be doing at all (and they won't stop attacking me)....
 
 Possible messages on executing:
 1. Can't find AskAdmin.exe in the current location ("X:\\(...)")...
 
-![AskAdmin-BannedMailList-OK](https://user-images.githubusercontent.com/61757638/188722419-f9f765f9-b481-4f79-9f9f-230b7a4ce547.png)
+![AskAdmin-BannedMailList-2](https://user-images.githubusercontent.com/61757638/183537040-ac036c55-b181-48b9-b865-a26ea13450e0.png)
 
 2. Can't find the AskAdmin window...
 
