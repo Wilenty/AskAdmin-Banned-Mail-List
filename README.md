@@ -28,13 +28,16 @@ Possible messages on executing:
 
 If you want to have your own full version of AskAdmin without any restrictions, I will suggest to you to use my "AutoIT extractor" from there: https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator
 and chande some strings in the extracted script:
+
 ```AutoIt
 ;Statically e-mail addresses written, line: 128
 ```
+
 ```AutoIt
 ; Cooent line 129 to skip the licese dialog:
 ;If $cmdline[0] = 0 Then a4860004103()
 ```
+
 ``AutoIt
 ; "registration" in line 132
 Global $a0fe130460a = a1570004a1a()
