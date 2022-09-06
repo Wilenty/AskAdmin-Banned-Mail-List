@@ -27,7 +27,7 @@ Possible messages on executing:
 ![AskAdmin-BannedMailList-1](https://user-images.githubusercontent.com/61757638/183537080-cf2af149-1e09-472b-bb8e-fbdc6e381f5f.png)
 
 If you want to have your own full version of AskAdmin without any restrictions, I will suggest to you to use my "AutoIT extractor" from there: https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator
-and chande some strings in the extracted script:
+and change some strings in the extracted script:
 
 ```AutoIt
 ; Statically e-mail addresses written in line: 128
