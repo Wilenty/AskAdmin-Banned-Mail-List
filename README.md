@@ -21,7 +21,7 @@ So please report them to the police or to the relevant authorities in your count
 Possible messages on executing:
 1. Can't find AskAdmin.exe in the current location ("X:\\(...)")...
 
-![AskAdmin-BannedMailList-2](https://user-images.githubusercontent.com/61757638/183537040-ac036c55-b181-48b9-b865-a26ea13450e0.png)
+![AskAdmin-BannedMailList-OK](https://user-images.githubusercontent.com/61757638/188722419-f9f765f9-b481-4f79-9f9f-230b7a4ce547.png)
 
 2. Can't find the AskAdmin window...
 
