@@ -31,7 +31,7 @@ and chande some strings in the extracted script:
 ```AutoIt
 ; "registration" in line 132
 Global $a0fe130460a = a1570004a1a()
-;TO:
+;TO skip registartion:
 ;Global $a0fe130460a = a1570004a1a()
 ```
 instead of pay for it for people who won't understand that they doing wrong (and they are angry at me)...
