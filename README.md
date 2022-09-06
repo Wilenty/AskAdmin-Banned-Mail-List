@@ -1,5 +1,11 @@
 # AskAdmin - Banned Mail List (your e-mail on their black list)
 
+At the outset. I've send an e-mail for all of the mentioned users with question if they allows to share this program (two weeks ago), and I don't get any negative response for about two weeks, so...
+
+![e-mailSEND-2](https://user-images.githubusercontent.com/61757638/188722176-e72ecb18-c151-4214-b529-c742229c4af3.png)
+![e-mailSEND-1](https://user-images.githubusercontent.com/61757638/188722229-59891bce-2501-476e-868f-8baa7ca4791f.png)
+
+
 A word of explanation:
 if you will decide to pay for AskAdmin program, and then you will stop doing it - your e-mail address will be added to the mentioned list in the title. Or, if they will thinks that you selling your own copy of the AskAdmin program - your e-mail will be added there too!
 
@@ -21,10 +27,8 @@ Possible messages on executing:
 
 ![AskAdmin-BannedMailList-1](https://user-images.githubusercontent.com/61757638/183537080-cf2af149-1e09-472b-bb8e-fbdc6e381f5f.png)
 
-If you want to have your own full version of AskAdmin without any restrictions, I will suggest to download it from there:
-https://diakov.net/14275-askadmin-v18.html
+If you want to have your own full version of AskAdmin without any restrictions, I will suggest to you to use my "AutoIT extractor" from there: https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator
 instead of pay for it for people who won't understand that they doing wrong (and they are angry at me)...
-I can admit that the above link does not contain latest version of AskAdmin, but it's the full version without any restrictions!
 
 If someone will decide to create a class action, please also include the message wrote by the AskAmin owners from there:
 https://wilenty.wixsite.com/softwarebywilenty/post/wtarkan-started-a-conversation-with-you-and-we-will-find-you
