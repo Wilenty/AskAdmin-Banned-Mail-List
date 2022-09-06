@@ -34,7 +34,7 @@ and chande some strings in the extracted script:
 ```
 
 ```AutoIt
-; Cooent line 129 to skip the licese dialog:
+; Coment line 129 to skip the licese dialog:
 ;If $cmdline[0] = 0 Then a4860004103()
 ```
 
